@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@components/*": ["./src/components/*"],
+      "@services/*": ["./src/services/*"],
+      "@utils/*": ["./src/utils/*"],
+      "@enums/*": ["./src/enums/*"],
+      "@sections/*": ["./src/sections/*"],
+      "@layouts/*": ["./src/layouts/*"],
+      "@styles/*": ["./styles/*"],
+      "@recoil/*": ["./src/recoil/*"],
+      "@config/*": ["./config/*"]
+    }
+  }
+}
